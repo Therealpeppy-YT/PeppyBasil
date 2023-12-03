@@ -28,5 +28,5 @@ Console.WriteLine("Well go check it out then at youtube.com/@Therealpeppy");
 break;
 }
 
-Console.WriteLine("Press any key to exit")
+Console.WriteLine("Press any key to exit!")
 Console.ReadKey();
