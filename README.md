@@ -3,3 +3,4 @@
 
 ## -- Activities --
 * Learning C
+* Learning how to use Git properly
